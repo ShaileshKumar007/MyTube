@@ -32,9 +32,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoThumbnailUrl = 'https://i.ytimg.com/an_webp/1Xi4fMfwsQg/mqdefault_6s.webp?du=3000&sqp=CJDwqp4G&rs=AOn4CLBLqXQcW5Uw3KimQlMohJJKDm-ljw';
+export const demoChannelUrl = '/@bigthink';
+export const demoVideoUrl = '/video/1Xi4fMfwsQg';
+export const demoChannelTitle = 'Anime Watchers';
+export const demoVideoTitle = 'This is the Demo Video';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
